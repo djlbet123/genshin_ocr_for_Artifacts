@@ -3,6 +3,7 @@
     以学习为目的开发此项目，无盈利目的。
     由于原神的圣遗物强化存在随机性，许多用户寻找强化的规律。在这个项目中，使用PPOCRV3自动检测圣遗物的词条和强化结果，
     并自动录入数据，减少人力劳动。减少打标签的错误操作，避免污染数据，为后续的分析提供帮助。
+[视频演示](https://www.bilibili.com/video/BV14T411h7Jw/)
 
 ## 操作说明
     原理是截取屏幕中的词条区域，进行识别，所以一定要全屏运行原神。只在4K分辨率测试过(3840*2160)测试过，
@@ -40,7 +41,6 @@
 ![image](https://github.com/djlbet123/genshin_ocr_for_Artifacts/blob/master/img/visualized_result0.jpg)
 ![image](https://github.com/djlbet123/genshin_ocr_for_Artifacts/blob/master/img/img1.jpg)
 ![image](https://github.com/djlbet123/genshin_ocr_for_Artifacts/blob/master/img/visualized_result1.jpg)
-[bilibili]()
 
 ## 使用的仓库
 [FastDeploy](https://github.com/PaddlePaddle/FastDeploy)
