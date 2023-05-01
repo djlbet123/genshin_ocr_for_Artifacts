@@ -35,6 +35,13 @@
     I7-12700H
     4K分辨率(3840*2160)
 
+## 案例
+![image](https://github.com/djlbet123/genshin_ocr_for_Artifacts/blob/master/img/img0.jpg)
+![image](https://github.com/djlbet123/genshin_ocr_for_Artifacts/blob/master/img/visualized_result0.jpg)
+![image](https://github.com/djlbet123/genshin_ocr_for_Artifacts/blob/master/img/img1.jpg)
+![image](https://github.com/djlbet123/genshin_ocr_for_Artifacts/blob/master/img/visualized_result1.jpg)
+[bilibili]()
+
 ## 使用的仓库
 [FastDeploy](https://github.com/PaddlePaddle/FastDeploy)
 [D3DSHOT](https://github.com/SerpentAI/D3DShot)
