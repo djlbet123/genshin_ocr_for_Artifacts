@@ -1,0 +1,4 @@
+d3dshot
+pynput
+fastdeploy-python
+pyside6
